@@ -4,7 +4,7 @@ module.exports = defineConfig({
     build: {
         outDir: "dist",
         rollupOptions: {
-            input: "elm-stuff/elm-pages/index.html",
+            input: "index.html",
         },
     }
 });
